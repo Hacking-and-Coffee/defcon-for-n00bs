@@ -1,0 +1,105 @@
+Introduction
+
+DEFCON generally needs no introduction. However, I am aware that there will be people not familiar with the security industry 
+and culture attending. Sometimes they are sent by employers, sometimes they are just curious and happen to be in Vegas. For 
+those who are unaware, all I will say here is that the networks are some of the most hostile you will encounter, the Wall of 
+Sheep is real and easy to get on, and this event is the combination of some of the most brilliant minds in industry and some of 
+the most annoying pranksters/drunks. The history of DEFCON and its background are generally out of scope for this document, I 
+recommend you UTFSE if you are still reading this and haven’t moved on yet to the details.
+
+Preparing for the event
+
+Events such as DEFCON are a bit different from many other conferences and large gatherings. There are some precautions that 
+every attendee should take to protect both their information, and their tech.
+
+Prepare your identity
+When one attends DEFCON, they do not use their names (except maybe at the airport and hotel check ins, if you still are 
+developing those social engineering skills). When you introduce yourself, you will not use your name. You will use your handle. 
+This serves multiple purposes.
+
+    Protects your identify from nefarious uses
+    Ensures that there are not 500 different “Bob” names you have to remember to separate
+    Allow shenanigans to remain anonymous (and yes, they are inevitable)
+    Get used to introducing yourself as your handle, and using the respective identifier for any friends or colleagues of yours 
+there. It is easy to let a real name accidentally slip.
+
+Prepare your Supplies
+Most of the supplies necessary for DEFCON are going to be basic conference supplies, with a few caveats.
+
+    Bag for swag and gear (better be comfortable for using all day)
+    Water bottle and snacks (stay hydrated, easy to forget that with a lot going on)
+    Good attire (a.k.a. cool and comfortable attire, or something crazy like a Mohawk and kilt if that’s your thing)
+    Notepads or something non-electronic for notes (electronic is fine given the prep detailed further, but it is not 
+recommended you rely on it)
+    Cash (credit cards are accepted at some vendors, but not the vent itself and generally you want to avoid using a piece of 
+plastic that requires your ID and real name)
+    Any gear necessary to complete any training, learning, or competitions you plan to enter into. This includes lock picks, 
+tool boxes, embedded system boards and debuggers, etc.
+    PGP fingerprints on business cards or similar for key signing parties
+
+Secure your tech
+The wireless at DEFCON is fair game for anything. The wired network, while supposed to be a safe haven, is still extraordinarily 
+hostile. Cellular networks below current 4G LTE are considered generally hostile at this event, as demonstrated by the WASP in 
+previous years. However, even modern cellular protocols must be used with caution. Below are some suggestions for securing your 
+tech and accounts. Of course, these are only guidelines. Any experienced member of this community likely has another solution of 
+their own.
+
+If you do not understand how to protect your gear effectively, e.g. if the words in the lists below are gibberish to you, then 
+you likely should avoid bringing any tech to the event.
+
+Laptops
+Laptops should never be out of your sight if at all possible. Many people choose to put on a fresh OS with bare essentials, and 
+nuke the thing from orbit after the event… It’s the only way to be sure. In practice, you can protect a long term 
+machine, and even a work machine. But you have to take into account the value of the data on that machine, and understand the 
+implications of what you are doing.
+
+Here are some general recommendations for Laptops at DEFCON, assuming it is not desired to be nuked afterwards:
+
+    Encrypted Hard Drive. This should be a no-brainer, however if possible one should use Self Encrypting Hard Drives / SSDs. 
+Software solutions like bitlocker and PGP disk store the keys in memory. This is problematic as computer interfaces with Direct 
+Memory Access can read those keys. If you ensure your machine is powered down completely when not in use, and always in your 
+sight when decrypted, then this risk becomes manageable. However, it is still vulnerable to Con Booting beforehand. This is 
+getting involved for the average punk at a con, but if you bring a work machine (like for a company representative), then it is 
+expected to have information valuable enough to perform this. Interfaces with DMA include Firewire, Thunderbolt, Expresscard, 
+and USB 3.0/3.1
+    Firewalls. Again, obvious to most, but then again this guide is meant for the newcomers.
+    VPN software. Setup a remote VPN to a trusted source, and ensure it is setup with a trusted certificate and strong creds. 
+The networks are not considered safe at these events. If you even have an inkling of using the network while in Vegas during 
+this time, this is an essential.
+    Virtual Machines. Any time you choose to do a challenge or anything “dirty” on the networks, or with software 
+provided to you, you better be putting it in a virtual environment. Be cautious if you choose to allow this. Hypervisor exploits 
+are rare, but have existed. DEFCON is the type of event where a 0day for these might pop up. I personally am willing to do 
+challenges using a VM, but then again I generally do analysis of something that executes before I run it.
+
+Peripherals
+
+    Cable locks and related. While not the most effective at places like DEFCON, it is cheap and easy enough that you should 
+have one for defense in depth.
+    Encrypted external media. External drives should be encrypted, unless you intend to share the contents. In reality, the only 
+reason I personally bring one is to store data long term from events without leaving it on a running machine.
+    Power only USB cables. While you should always use your own charger, bring a USB power cable that has the data lines removed 
+just in case. You can also use a USB Condom to disconnect data lines. If you do not have one, vendors have some that are either 
+transparent or not in cases so you can see what you are getting.
+    Harden your phone. Make sure your phone is not set to automatically connect to networks, and that any apps on it are not 
+using insecure transfer methods. A rooted phone can be beneficial with the addition of ACLs on the su binary, along with 
+application specific firewalls and API calls. Bluetooth and other technologies should be off unless you are sure that the 
+devices have properly implemented security measures.
+
+At the event
+
+The event has arrived and your gear is prepped. You are free to walk around feeling like a bad ass, even to the annoyance of 
+others. But that won’t help you get far, and might just make you a target.
+In reality, at the event you need to follow a certain set of rules to protect yourself, gear, and identity. Socially and 
+environmentally the con is hostile.
+
+Here are some of the big, easily performed no-no items:
+
+    Using an ATM (yes, this has already happened. Better have brought cash or used the casino’s cahier counter)
+    Leaving bags and gear unattended. Be prepared to have everything strapped to you at all times
+    Trusting handouts. Even USB drives and gear handed out by vendors has proved hostile in years past. Better quarantine it if 
+you intend to keep it
+    Pickpockets. Vegas is full of pickpockets. The worst locations are the airports, tourist areas (like the Bellagio 
+fountains), and anywhere with expensive tech (cough-the con-cough)
+    QR Codes and NFC. Those QR codes you see in advertisements are often found around the con, and quite often people stick a 
+code over the original and it links to an exploit
+
