@@ -62,11 +62,14 @@ sight when decrypted, then this risk becomes manageable. However, it is still vu
 getting involved for the average punk at a con, but if you bring a work machine (like for a company representative), then it is 
 expected to have information valuable enough to perform this. Interfaces with DMA include Firewire, Thunderbolt, Expresscard, 
 and USB 3.0/3.1
+    Firewalls. Again, obvious to most, but then again this guide is meant for the newcomers.
+    VPN software. Setup a remote VPN to a trusted source, and ensure it is setup with a trusted certificate and strong creds. 
+The networks are not considered safe at these events. If you even have an inkling of using the network while in Vegas during 
+this time, this is an essential.
     Virtual Machines. Any time you choose to do a challenge or anything “dirty” on the networks, or with software 
 provided to you, you better be putting it in a virtual environment. Be cautious if you choose to allow this. Hypervisor exploits 
 are rare, but have existed. DEFCON is the type of event where a 0day for these might pop up. I personally am willing to do 
 challenges using a VM, but then again I generally do analysis of something that executes before I run it.
-    For securing the device network communications, see securing_network_communications.txt
 
 Peripherals
 
