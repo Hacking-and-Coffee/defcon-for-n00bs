@@ -1,0 +1,22 @@
+#########################################
+# Project: Defcon for N00bs
+# Topic: Securing Network Communications
+# Category: Essential
+#########################################
+
+The networks at Defcon, both wired and wireless, should be considered hostile at all times. Regardless of the threat actor (pranksters to black hats), this should be kept in mind with all gear with a radio. Cellular, WiFi, Ethernet, etc are all under attack at this event.
+
+With all of this in mind, securing network communications at Defcon may seem like a daunting task. However, there are some solutions which can be implemented with relative ease.
+
+First and foremost is setting up a VPN to secure your channel. For the uninitated, a Virtual Private Network (VPN) is capable of encrypting all network traffic between one sourcfe and another. It is possible to setup a VPN on all of your devices to protect their communications during the event. For the purpose of this write-up, I am going to refer to OpenVPN as it is a FOSS project, and there are many ways to either implement it yourself, or to use a 3rd party hosted service.
+@hon1nbo personally recommends using PfSense in a cloud or self-hosted deployment, as it is easy to configure OpenVPN, has great firewall support, and is a great firewall / routing system to learn in general.
+
+You will want to confuigure your OpenVPN deployment with a Full Tunnel, including DNS lookups, using an AES algorithm. This can be installed locally on your devices for communication. Ideally, you should use a prepaid hotspot or similar at the event to act as a buffer for your wireless radios. You can currently walk into a store and do a prepaid hotspot cash with no names through a few vendors in the true Defcon fashion. This will also enable you to not rely on the hotel at the event for internet.
+
+Furthermore, with PfSense it is possible to run a fireall on your laptop using VMs that will isolate your trusted host or VMs from the Defcon networks.
+
+Diagrams for both of these scenarios are provided.
+
+Image references:
+wwan_prepaid_hotspot.jpg
+secure_laptop_wifi.jpg
