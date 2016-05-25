@@ -18,5 +18,5 @@ Furthermore, with PfSense it is possible to run a fireall on your laptop using V
 Diagrams for both of these scenarios are provided.
 
 Image references:
-wwan_prepaid_hotspot.jpg
+wwan_prepaid_hotspot_vpn.jpg
 secure_laptop_wifi.jpg
