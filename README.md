@@ -1,6 +1,6 @@
 # defcon-for-n00bs
 Defcon for N00bs is an open guide for first time attendees to the convention.
-This guide is published to the Hacking and Coffee website @ https://hackingand.coffee/index.php/defcon-for-n00bs/
+This guide is published to the Hacking and Coffee website @ https://hackingand.coffee/defcon-for-n00bs/
 
 This repo allows people to submit changes to include, suggested docs, resources, etc.
 
