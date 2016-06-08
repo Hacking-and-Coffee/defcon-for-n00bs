@@ -1,0 +1,9 @@
+#########################################
+# Project: Defcon for N00bs
+# Topic: Contributors
+#########################################
+
+Project Creator: @hon1nbo ; Hacking & Coffee ; https://keybase.io/hon1nbo
+
+Volunteer Contributors:
+- Bond

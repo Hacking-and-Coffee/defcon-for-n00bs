@@ -1,0 +1,13 @@
+#########################################
+# Project: Defcon for N00bs
+# Topic: Suggested Reading
+# Category: Base
+#########################################
+
+
+*removed https://hackingand.coffee from this list since you are already reading it! Thanks Bond for having it here originally!
+(bloat, run NoScript) http://beforeitsnews.com/self-sufficiency/2015/06/how-to-develop-the-situational-awareness-of-jason-bourne-2491038.html
+http://m.imgur.com/gallery/4PHBO/new
+https://forum.defcon.org/forum/defcon/def-con-23-planning/222194-my-fist-defcon-a-post-mortem-and-hopefully-a-roadmap-for-future-n00bs
+https://systemoverlord.com/2016/02/18/hacker-summer-camp-planning-guide.html
+http://defcon.stotan.org/faq/survival.htm

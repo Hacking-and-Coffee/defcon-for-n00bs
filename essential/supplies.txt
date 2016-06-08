@@ -1,0 +1,31 @@
+#########################################
+# Project: Defcon for N00bs
+# Topic: Supplies
+# Category: Essential
+#########################################
+
+
+Prepare your Supplies
+Most of the supplies necessary for DEFCON are going to be basic conference supplies, with a few caveats.
+
+- Bag for swag and gear (better be comfortable for using all day, factoring in weight of your gear plus acquired items)
+
+- Water bottle and snacks (stay hydrated, easy to forget that with a lot going on). FOr snacks some power bars or hiking snacks 
+work very well.
+
+- Good attire (covered under Essentials/clothing.txt )
+
+- Notepads or something non-electronic for notes (electronic is fine given the prep detailed in Essential/securing_your_tech.txt but it is not recommended you rely on it). Bring extra pens or pencils, as you will likely lose or loan some out.
+
+- Cash (credit cards are accepted at some vendors, but not the event itself, and generally you want to avoid using a piece of 
+plastic that requires your ID and real name). 
+
+- RFID blocking Wallet. Get a good one (such as a Trayvax) so you can put all of your NFC and RFID cards inside. THere are plenty of Proxmarks and other devices at the event.
+
+- Door Stop or bell for your hotel room (mostly for while you are inside. See tips and tricks for suggestions on detecting entry upon return for the night).
+
+- Any gear necessary to complete any training, learning, or competitions you plan to enter into. This includes lock picks,
+tool boxes, embedded system boards and debuggers, etc.
+
+- PGP fingerprints on business cards or similar for key signing parties.
+
