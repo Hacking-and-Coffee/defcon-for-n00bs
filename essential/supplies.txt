@@ -17,7 +17,7 @@ work very well.
 
 - Notepads or something non-electronic for notes (electronic is fine given the prep detailed in Essential/securing_your_tech.txt but it is not recommended you rely on it). Bring extra pens or pencils, as you will likely lose or loan some out.
 
-- Cash (credit cards are accepted at some vendors, but not the event itself, and generally you want to avoid using a piece of 
+- Cash (credit cards are accepted at some vendors, but not the event itself including con run Cafe's, and generally you want to avoid using a piece of 
 plastic that requires your ID and real name). 
 
 - RFID blocking Wallet. Get a good one (such as a Trayvax) so you can put all of your NFC and RFID cards inside. THere are plenty of Proxmarks and other devices at the event.
