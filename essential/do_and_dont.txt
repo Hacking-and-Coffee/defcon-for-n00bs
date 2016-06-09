@@ -15,7 +15,7 @@ However, these are specific to the event. We'll start with the "Don'ts" since th
 * Don't *
 *********
 
-- DON'T use ATMs. If you have to sue one, choose one in the casino next to the cashier cages, as they will be more closely monitored to prevent tamopering.
+- DON'T use ATMs. If you have to use one, choose one in the casino next to the cashier cages, as they will be more closely monitored to prevent tamopering.
 
 - DON'T push someone into the pool without giving them a chance to remove their tech. It is a dick move.
 
@@ -54,5 +54,7 @@ However, these are specific to the event. We'll start with the "Don'ts" since th
 - DO go to the villages and interact
 
 - DO relax. Don't stress yourself out too much.
+
+- DO password protect your mobile devices (remove fingerprint auth and weak pin numbers for the con)
 
 - DO ...
