@@ -1,9 +1,8 @@
 #########################################
-# Project: Defcon for N00bs
+# Project: DEF CON for N00bs
 # Topic: Suggested Reading
 # Category: Base
 #########################################
-
 
 *removed https://hackingand.coffee from this list since you are already reading it! Thanks Bond for having it here originally!
 (bloat, run NoScript) http://beforeitsnews.com/self-sufficiency/2015/06/how-to-develop-the-situational-awareness-of-jason-bourne-2491038.html

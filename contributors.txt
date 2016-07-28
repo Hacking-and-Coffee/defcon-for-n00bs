@@ -1,5 +1,5 @@
 #########################################
-# Project: Defcon for N00bs
+# Project: DEF CON for N00bs
 # Topic: Contributors
 #########################################
 

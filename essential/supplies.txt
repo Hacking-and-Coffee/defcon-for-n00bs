@@ -1,31 +1,26 @@
 #########################################
-# Project: Defcon for N00bs
+# Project: DEF CON for N00bs
 # Topic: Supplies
 # Category: Essential
 #########################################
 
+Most of the supplies necessary for DEF CON are going to be basic conference supplies, with a few caveats:
 
-Prepare your Supplies
-Most of the supplies necessary for DEFCON are going to be basic conference supplies, with a few caveats.
+- A solid, but lightweight and comfortable bag for swag and gear. Make sure it's comfortable to wear all day and consider the weight of your regular carry plus anything you pick up along the way.
 
-- Bag for swag and gear (better be comfortable for using all day, factoring in weight of your gear plus acquired items)
+- Water bottle and snacks. Stay hydrated! It's easy to forget that with so much going on. For snacks some protein bars or hiking snacks work very well, but do your own thing.
 
-- Water bottle and snacks (stay hydrated, easy to forget that with a lot going on). FOr snacks some power bars or hiking snacks 
-work very well.
+- Good attire (covered under essential/clothing.txt )
 
-- Good attire (covered under Essentials/clothing.txt )
+- Notepads or something non-electronic for notes. Electronic gear is fine given the prep detailed in essential/securing_your_tech.txt but don't rely on it. Bring extra pens or pencils, as you will likely lose or loan some out.
 
-- Notepads or something non-electronic for notes (electronic is fine given the prep detailed in Essential/securing_your_tech.txt but it is not recommended you rely on it). Bring extra pens or pencils, as you will likely lose or loan some out.
+- Cash! Credit cards are accepted at some vendors, but not the event itself including conference-run cafe's, and generally you want to avoid using a piece of plastic that requires your ID and real name. 
 
-- Cash (credit cards are accepted at some vendors, but not the event itself including con run Cafe's, and generally you want to avoid using a piece of 
-plastic that requires your ID and real name). 
+- RFID blocking wallet. Get a good one (such as a Trayvax) so you can put all of your NFC and RFID cards inside. There are plenty of Proxmarks and other devices at the event.
 
-- RFID blocking Wallet. Get a good one (such as a Trayvax) so you can put all of your NFC and RFID cards inside. THere are plenty of Proxmarks and other devices at the event.
-
-- Door Stop or bell for your hotel room (mostly for while you are inside. See tips and tricks for suggestions on detecting entry upon return for the night).
+- Door stop or bell for your hotel room. It's a nice bit of piece of mind for when you're getting some rest in your room. See tips and tricks for suggestions on detecting entry upon return for the night.
 
 - Any gear necessary to complete any training, learning, or competitions you plan to enter into. This includes lock picks,
 tool boxes, embedded system boards and debuggers, etc.
 
 - PGP fingerprints on business cards or similar for key signing parties.
-
