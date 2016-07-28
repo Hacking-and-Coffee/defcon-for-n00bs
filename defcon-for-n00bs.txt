@@ -1,37 +1,31 @@
 #########################################
-# Project: Defcon for N00bs
+# Project: DEF CON for N00bs
 # Topic: Introduction
 # Category: Base
 #########################################
 
 **********
-* DEFCON *
+* DEF CON *
 **********
 
-DEFCON generally needs no introduction. However, we are aware that there will be people not familiar with the security industry 
+DEF CON generally needs no introduction. However, we are aware that there will be people not familiar with the security industry 
 and culture attending. Sometimes they are sent by employers, sometimes they are just curious and happen to be in Vegas. For 
-those who are unaware, all we will say here in the introduction is that the networks are some of the most hostile you will ever encounter, the Wall of 
-Sheep is real and easy to get on, and this event is the combination of some of the most brilliant minds in industry and some of 
-the most annoying pranksters/drunks. The history of DEFCON and its background are generally out of scope for this document, we 
-recommend you UTFSE if you are still reading this and haven't moved on yet to the various sections.
-
+those who are unaware, all we will say here in the introduction is that the networks are some of the most hostile you will ever encounter. The Wall of Sheep is real and easy to get on and this event is the combination of some of the most brilliant minds in industry and some of the most annoying pranksters and (usually) well-meaning drunks. The history of DEF CON and its background are generally out of scope for this document, we recommend you UTFSE if you are still reading this and haven't moved on yet to the various sections.
 
 **************
 * Essentials *
 **************
 
-The Essentials folder has guides for knowledge that, as the name suggests, is essential for the event. 
-It includes topics such as:
+The Essentials folder has guides for knowledge that, as the name suggests, is essential for the event. It includes topics such as:
+
 - Securing your tech
 - Travel
 - Do's and Don'ts of the event
 
-and more. If any of the topicss present are unfamiliar to you, read them before heading to Tips and Tricks
-
+If any of the topics presented are unfamiliar to you, read them before heading to Tips and Tricks.
 
 *******************
 * Tips and Tricks * 
 *******************
 
-The Trips and Tricks folder is for submissions of items that aren't essential, but make life at the con easier. Anything can go here if it helps out DEFCON attendees
-
+The Tips and Tricks folder is for the submission of items that aren't essential, but make life at the con easier. Anything can go here if it helps out DEF CON attendees.
