@@ -1,41 +1,34 @@
 #########################################
-# Project: Defcon for N00bs
+# Project: DEF CON for N00bs
 # Topic: Do's and Don'ts
 # Category: Essential
 #########################################
 
+There are many things that we could list as a "Do" or a "Don't" at DEF CON.
 
-There are many things that we could list as "Do" or "Don't."
-We could say do not get pissed on liquour and throw bottles at casino security. I think @hon1nbo wants us to assume that you know that.
-
-However, these are specific to the event. We'll start with the "Don'ts" since they are more important.
-
+We could say do not get pissed on liquour and throw bottles at casino security. I think @hon1nbo wants us to assume that you know that. However, these are specific to the event. We'll start with the "Don'ts" since they are more important.
 
 *********
 * Don't *
 *********
 
-- DON'T use ATMs. If you have to use one, choose one in the casino next to the cashier cages, as they will be more closely monitored to prevent tamopering.
+- DON'T use ATMs. If you HAVE to use one, choose one in the casino next to the cashier cages, as they will be more closely monitored to prevent tamopering.
 
-- DON'T push someone into the pool without giving them a chance to remove their tech. It is a dick move.
+- DON'T push someone into the pool without giving them a chance to remove their tech. That's a dick move.
 
-- DON'T use anything you consider sensitive over the wifi
+- DON'T use anything you consider sensitive over the WiFi. In fact, you should probably just turn off WiFi and Bluetooth.
 
-- DON'T leave your gear out of sight
+- DON'T let your gear out of your sight
 
-- DON'T harass the goons. They put up with enough your shit so the event can go on as usual.
+- DON'T harass the goons. They put up with enough shit as it is.
 
-- DON'T use your real name (unless it is both exotic and you really don't care). Even if you are fine with people knowing your name is "Smith," how manyu smiths do you think there are? Lots. Handles are not only for anomynimity, but also so I can differentiate the 500 different Smiths you will meet.
+- DON'T use your real name (unless it is both exotic and you really don't care). Even if you are fine with people knowing your name is "Smith," how many "Smiths" do you think there are? Lots. Handles not only protect your privacy, but also so others can differentiate you from the 500 other "Smiths" at the conference.
 
-- DON'T plug in random devices you find (unless you have a super good reson to trust them)
+- DON'T plug in random devices (chargers, thumb drives... ANYTHING) you find unless you are absolutely certain you can trust them and even then you probably shouldn't
 
-- DON'T leave your bags unattended. Be prepared to have everything strapped to you at all times. Zipper pockets are your friend, as Vegas is full of pickpockets.
+- DON'T leave your bags unattended. Be prepared to have everything strapped to you at all times. Zipper pockets are your friend, s Vegas is full of pickpockets.
 
-- DON'T scan random QR Codes and NFC tags. QR codes are often seen in advertisements are often found around the con, and quite often people stick a code over the original and it links to an exploit
-
-- DON'T ...
-
-
+- DON'T scan random QR Codes or NFC tags. QR codes are often seen in advertisements are often found around the conference. It's not unusual for people to stick a code over the original and link to an exploit.
 
 ******
 * DO *
@@ -49,9 +42,7 @@ However, these are specific to the event. We'll start with the "Don'ts" since th
 
 - DO change your clothes
 
-- DO interact with people (these events you will learn a lot, even if you never meet them again)
-
-- DO go to the villages and interact
+- DO interact with people (you will learn a lot, even if you never see them again)
 
 - DO go to parties (even if you don't drink), this is a great way to meet people and play with cool tech people bring
 
@@ -59,6 +50,8 @@ However, these are specific to the event. We'll start with the "Don'ts" since th
 
 - DO relax. Don't stress yourself out too much.
 
-- DO password protect your mobile devices (remove fingerprint auth and weak pin numbers for the con)
+- DO go to the villages and interact with others
 
-- DO ...
+- DO relax and don't stress yourself out
+
+- DO password protect your devices (remove fingerprint auth and weak pin numbers for the conference)
