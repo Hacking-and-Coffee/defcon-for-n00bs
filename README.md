@@ -1,4 +1,4 @@
-# defcon-for-n00bs
+# DEF CON for N00bs
 ## Introduction to DEF CON for N00bs
 DEF CON for N00bs is an open guide for first time attendees to one of, if not the, best hacker conventions.
 This repo allows people to submit changes to include, suggested docs, resources, etc. Use of a Git repo allows for a lot more people to contribute items no matter how small, without having to use any propreitary tools or collaboration environments.
