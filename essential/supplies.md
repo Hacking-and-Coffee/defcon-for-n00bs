@@ -1,8 +1,5 @@
-#########################################
-# Project: DEF CON for N00bs
-# Topic: Supplies
-# Category: Essential
-#########################################
+# Supplies
+#### DEF CON for N00bs - Essential
 
 Most of the supplies necessary for DEF CON are going to be basic conference supplies, with a few caveats:
 
