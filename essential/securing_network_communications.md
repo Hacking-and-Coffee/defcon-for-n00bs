@@ -19,5 +19,6 @@ Diagrams for both of these scenarios are provided.
 
 Image references:
 
-wwan_prepaid_hotspot_vpn.jpg
-secure_laptop_wifi.jpg
+![WWAN Prepaid Hotspot](/images/wwan_prepaid_hotspot_vpn.jpg)
+
+![Secure Laptop Architecture](/images/secure_laptop_wifi.jpg)
