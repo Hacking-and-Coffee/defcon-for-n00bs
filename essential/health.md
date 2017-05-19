@@ -1,5 +1,5 @@
 # Health
-##DEF CON for N00bs - Essential
+## DEF CON for N00bs - Essential
 
 DEF CON, like any conference or convention, can be a stressful environment both physically and mentally.
 
