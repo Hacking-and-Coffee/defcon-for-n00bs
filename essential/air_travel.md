@@ -13,6 +13,7 @@ type.
 
 **AVOID BRINGING THE FOLLOWING** (carry on or checked):
 - Black upright with 2 or 4 wheels
+
 There are thousands and thousands of bags running through the system at all times. Do not let your bag get lost because it
 looks just like the rest of them. Do whatever you need to do to make it stand out:
 - Name Tags
