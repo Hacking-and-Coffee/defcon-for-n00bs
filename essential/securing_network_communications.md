@@ -19,6 +19,8 @@ Diagrams for both of these scenarios are provided.
 
 Image references:
 
+Using a WWAN Prepaid Hotspot to Isolate the Baseband
 ![WWAN Prepaid Hotspot](/images/wwan_prepaid_hotspot_vpn.jpg)
 
+Example Laptop Architecture:
 ![Secure Laptop Architecture](/images/secure_laptop_wifi.jpg)
