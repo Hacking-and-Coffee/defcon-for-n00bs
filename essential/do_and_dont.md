@@ -1,16 +1,12 @@
-#########################################
-# Project: DEF CON for N00bs
 # Topic: Do's and Don'ts
-# Category: Essential
-#########################################
+## DEF CON for N00bs - Essential
 
 There are many things that we could list as a "Do" or a "Don't" at DEF CON.
 
 We could say do not get pissed on liquour and throw bottles at casino security. I think @hon1nbo wants us to assume that you know that. However, these are specific to the event. We'll start with the "Don'ts" since they are more important.
 
-*********
-* Don't *
-*********
+## Don't
+
 
 - DON'T use ATMs. If you HAVE to use one, choose one in the casino next to the cashier cages, as they will be more closely monitored to prevent tamopering.
 
@@ -30,15 +26,13 @@ We could say do not get pissed on liquour and throw bottles at casino security. 
 
 - DON'T scan random QR Codes or NFC tags. QR codes are often seen in advertisements are often found around the conference. It's not unusual for people to stick a code over the original and link to an exploit.
 
-******
-* DO *
-******
+## DO
 
 - DO stay hydrated
 
 - DO shower/bathe during the event
 
-- DO wash your hands
+- DO wash your hands (w/ soap... you know who you are)
 
 - DO change your clothes
 
