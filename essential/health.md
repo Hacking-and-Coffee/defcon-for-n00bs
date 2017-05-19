@@ -1,9 +1,9 @@
 # Health
-## DEF CON for N00bs - Essential
+#### DEF CON for N00bs - Essential
 
 DEF CON, like any conference or convention, can be a stressful environment both physically and mentally.
 
-### General conference health tips:
+## General conference health tips:
 
 - **Stay hydrated:** Conferences are really exciting, but it involves a lot of moving around, hot rooms, and waiting in line. It is 
 important that attendees stay hydrated. It is not uncommon for someone to have issues not heeding this advice, so drink some 
