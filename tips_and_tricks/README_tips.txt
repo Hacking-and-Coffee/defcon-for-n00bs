@@ -1,3 +1,6 @@
+# README
+#### DEF CON for N00bs - Tips & Tricks
+
 This directory is for little one-off tips and tricks submitted.
 
 Anything that proves useful to a con goer can be submitted as a pull request and inserted here.

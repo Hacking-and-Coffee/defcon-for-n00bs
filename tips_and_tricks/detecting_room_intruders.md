@@ -1,9 +1,7 @@
-#########################################
-# Project: DEF CON for N00bs
-# Topic: Detecting Room Intruders
-# Category: Tips and Tricks
-# Submitter: Bond (idea by Edward Snowden)
-#########################################
+# Detecting Room Intruders
+#### DEF CON for N00bs - Tips and Tricks
+#### Submitter: Bond (idea by Edward Snowden)
+
 
 A packet of soy sauce, a napkin, a rubber band and a plastic tumbler is a neat trick to see if your room has been entered.
 
@@ -12,4 +10,4 @@ A packet of soy sauce, a napkin, a rubber band and a plastic tumbler is a neat t
 3. Secure the soy sauce packet with the rubber band
 4. Place the tumbler behind the door when you leave (but don't forget it's there!)
 
-If someone enters your room, the glass will get knocked over and the symbol or letter on the napkin will become unreadable.
+#### If someone enters your room, the glass will get knocked over and the symbol or letter on the napkin will become unreadable.
