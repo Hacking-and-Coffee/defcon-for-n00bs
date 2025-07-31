@@ -1,4 +1,10 @@
 # DEF CON for N00bs
+
+# Repo Status
+This documentation is not currently maintained; I intend to come back to it with advice regarding the shift in format to the Las Vegas Convention Center (LVCC) but will likely not be attending this year anyway due to medical reasons.
+
+As such you should consider this documentation as inaccurate. Various recommendations have changed, especially the WifI recommendations are no longer valid (seriously DC Network Ops: You've done an incredible job over the years, on top of Let's Encrypt making TLS the standard everywhere since we first started this)
+
 ## Introduction to DEF CON for N00bs
 DEF CON for N00bs is an open guide for first time attendees to one of, if not the, best hacker conventions.
 This repo allows people to submit changes to include, suggested docs, resources, etc. Use of a Git repo allows for a lot more people to contribute items no matter how small, without having to use any propreitary tools or collaboration environments.
